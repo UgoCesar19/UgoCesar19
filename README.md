@@ -2,8 +2,12 @@
 
 I'm Ugo César, a developer that loves games!
 
+---
+
 ## 🚀 Current Project
-- 🎮 [Quem com Quem - Indie Game](https://play.google.com/store/apps/details?id=br.com.ugo.quemcomquem)
+- 🎮 [Quem com Quem](https://play.google.com/store/apps/details?id=br.com.ugo.quemcomquem)
+
+---
 
 ## 💻 Tech Stack & Knowledge Areas
 
@@ -29,10 +33,10 @@ I'm Ugo César, a developer that loves games!
 ### 🗃️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
 
----
-
 > 🧩 *Always learning and exploring new technologies to improve my craft.*
 
+---
+
 ## 📫 How to reach me
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/ugo-c%C3%A9sar-de-oliveira-moreira-243887a7)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-c%C3%A9sar-de-oliveira-moreira-243887a7)
 - Email: ugocesar19@hotmail.com
